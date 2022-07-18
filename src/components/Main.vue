@@ -357,7 +357,6 @@ export default {
 
 
 
-
     validation() {
       let name = document.getElementById('name')
       let phone = document.getElementById('phone-mask')
